@@ -14,7 +14,7 @@ public class Main {
     dp.getBill();
     dp.getBill();
     System.out.println(dp.getBill());
-
+    //normal pizzagit
     Pizza p = new Pizza(false);
     p.addExtraCheese();
     p.addExtraToppings();
